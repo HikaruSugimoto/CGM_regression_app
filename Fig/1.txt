@@ -1,0 +1,2 @@
+This app calculates AC_Mean and AC_Var, which are derived from autocorrelation coefficients of glucose levels measured by CGM. This app also calculates the mean (Mean) and the standard deviation (Std) of glucose levels. Glucose should be measured every 5 min.
+This app also performs a multiple regression analysis with Mean, Std, AC_Mean and AC_Var as input variables.
