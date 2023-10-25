@@ -9,7 +9,7 @@ st.title('CGM-based regression model app')
 f=open('./Fig/1.txt', 'r')
 st.write(f.read())
 f.close()
-st.write('.')
+
 st.write('This app accepts CGM data in the following format:')
 
 image = Image.open('./Fig/CGM_data.png')
